@@ -1,1 +1,0 @@
-# VACations-Student.github.io
