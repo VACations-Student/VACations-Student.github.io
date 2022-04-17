@@ -1,4 +1,43 @@
-#sex{
-  font-size:500%;
-  color:red;
+body{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #0d1117;
+}
+
+#tu_vieja{
+    font-size: 200%;
+    font-family: sans-serif;
+    justify-items: center;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    color: #a1a8b4;
+    height: 100%;
+    width: 100%;
+}
+
+.Interactive{
+    padding-left: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.cositoToqueteable{
+    background-color: #465061;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #a1a8b4;
+    border-radius: 0.7%;
+    width: 50%;
+    height: 25em;
+}
+
+hr{
+    height: 0.25em;
+    background-color: #30363d;
+    border: 0;
+}
+
+.Anashe{
+    font-family: sans-serif;
+    color: #a1a8b4;
 }
