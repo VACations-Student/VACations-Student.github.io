@@ -5,6 +5,10 @@ body{
     background-color: #0d1117;
 }
 
+details{
+    cursor: pointer;
+}
+
 #tu_vieja{
     font-size: 200%;
     font-family: sans-serif;
